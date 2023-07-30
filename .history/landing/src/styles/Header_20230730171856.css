@@ -1,0 +1,46 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.logoImage {
+  width: 76px;
+  height: 30px;
+  margin: 0 auto;
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+
+.left {
+  display: flex;
+  align-items: space-around;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.navbarGroup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.list {
+  list-style-type: none;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font-weight: 550;
+  font-size: 14px;
+}
+
+.listItem {
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: #000000;
+}

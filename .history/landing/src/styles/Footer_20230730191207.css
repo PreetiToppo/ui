@@ -1,0 +1,89 @@
+.sections {
+  padding: 50px 0;
+  position: relative;
+  overflow: hidden;
+  background-color: #fafafb;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: space-around;
+}
+
+.socialSites {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: space-around;
+}
+.socialSites p {
+  font-size: 14px;
+  font-weight: 500;
+  color: #000;
+}
+.socialIcons {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.pinkLogo {
+  width: 100px;
+  height: 100px;
+}
+
+.my-svg {
+  cursor: pointer;
+  width: 16px;
+  height: 16px;
+  fill: #565564;
+}
+.my-svg:hover {
+  fill: black;
+}
+
+.designers {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: space-around;
+  gap: 15px;
+}
+
+.designers p {
+  font-size: 14px;
+  font-weight: 500;
+  color: #000;
+}
+
+.footerDown {
+  display: flex;
+  flex-direction: row;
+  margin-top: 55px;
+}
+
+.footerLeft p {
+  font-size: 14px;
+  font-weight: 500;
+  color: #000;
+  margin-top: 55px;
+}
+
+.footerRight {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: space-around;
+  gap: 10px;
+  margin-left: 500px;
+}
+
+.footerRight p {
+  font-size: 14px;
+  font-weight: 500;
+  color: #000;
+}
+
+.footerRight img {
+  width: 25px;
+  height: 25px;
+}

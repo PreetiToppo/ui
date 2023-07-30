@@ -1,0 +1,6 @@
+.my-svg {
+  cursor: pointer;
+}
+.logo:hover {
+  fill: grey;
+}

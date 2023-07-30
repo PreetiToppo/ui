@@ -1,0 +1,6 @@
+.my-svg {
+  cursor: pointer;
+}
+.my-svg:hover {
+  fill: grey;
+}

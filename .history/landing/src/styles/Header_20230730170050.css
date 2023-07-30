@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.logoImage {
+  width: 76px;
+  height: 30px;
+  margin: 0 auto;
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.left {
+  display: flex;
+  align-items: space-around;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+#ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}

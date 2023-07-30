@@ -1,0 +1,34 @@
+.sections {
+  padding: 50px 0;
+  position: relative;
+  overflow: hidden;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: space-around;
+}
+
+.socialSites {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: space-around;
+
+  margin: 0;
+  padding: 0;
+}
+.pinkLogo {
+  width: 100px;
+  height: 100px;
+}
+
+.my-svg {
+  cursor: pointer;
+  width: 16px;
+  height: 16px;
+  fill: #999;
+}
+.my-svg:hover {
+  fill: black;
+}

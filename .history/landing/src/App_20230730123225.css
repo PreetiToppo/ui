@@ -1,0 +1,5 @@
+// give margin and padding 0 to all
+* {
+  margin: 0;
+  padding: 0;
+}

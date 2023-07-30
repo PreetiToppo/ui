@@ -1,0 +1,22 @@
+.logoImage {
+  width: 76px;
+  height: 30px;
+  margin: 0 auto;
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.left {
+  float: left;
+}
+
+.navbarGroup {
+  display: flex;
+  flex-direction: horizontal;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  height: 60px;
+  background-color: #fff;
+}

@@ -1,0 +1,13 @@
+.pinkLogo {
+  width: 76px;
+  height: 30px;
+}
+
+.my-svg {
+  cursor: pointer;
+  width: 14px;
+  height: 14px;
+}
+.my-svg:hover {
+  fill: grey;
+}
